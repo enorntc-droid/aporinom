@@ -201,7 +201,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 
-  const name = "aporinom";
+  const name = "antinon";
   let nameText = '';
   let nameIndex = 0;
   let isNameDeleting = false;
