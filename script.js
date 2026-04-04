@@ -238,8 +238,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const bioMessages = [
     "Dont wanna die.",
     "Say hello to my little friend!",
-    "Filho de Deus",
-    "semente"
+   
   ];
   let bioText = '';
   let bioIndex = 0;
